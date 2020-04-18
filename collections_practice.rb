@@ -43,8 +43,8 @@ def add_s(array)
         if plural == "feet"
             trying << plural
         else
-         trying << plural + ("s") 
-        end   
+         trying << plural + ("s")
+        end
     end
     trying
 end
